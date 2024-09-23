@@ -1,0 +1,51 @@
+ID_Pedido,Data_Pedido,ID_Cliente,Região,Cidade,Nome_Produto,Valor_Venda,Quantidade
+1,04/10/2023,1098,Norte,Belém,Teclado,2363.64,3
+2,17/04/2024,1032,Sudeste,Vitória,Saxofone,4380.39,3
+3,31/03/2024,1043,Norte,Manaus,Bateria,3785.58,4
+4,01/06/2024,1070,Sul,Curitiba,Saxofone,5839.49,4
+5,11/10/2023,1044,Centro-Oeste,Cuiabá,Manutenção de Piano,3745.72,5
+6,30/12/2023,1096,Centro-Oeste,Cuiabá,Violão,7835.45,2
+7,02/08/2024,1034,Centro-Oeste,Cuiabá,Manutenção de Guitarra,1906.22,2
+8,31/05/2024,1088,Norte,Manaus,Manutenção de Piano,6294.16,
+9,05/05/2024,1025,Sul,Curitiba,Manutenção de Violão,7662.54,1
+10,24/10/2023,1051,Nordeste,Recife,Manutenção de Guitarra,2249.37,5
+11,31/07/2024,1098,Centro-Oeste,Brasília,Violão,4708.11,3
+12,17/04/2024,1061,Centro-Oeste,Cuiabá,Bateria,5506.33,2
+13,15/04/2024,1025,Centro-Oeste,Brasília,Piano,5166.35,
+14,06/01/2024,1041,Centro-Oeste,Campo Grande,Manutenção de Piano,4062.63,4
+15,18/05/2024,1023,Nordeste,Salvador,Teclado,6090.96,
+16,21/06/2024,1050,Sudeste,Vitória,Guitarra,5374.23,4
+17,05/07/2024,1037,Centro-Oeste,Goiânia,Trompete,7262.99,2
+18,15/04/2024,1090,Norte,Rio Branco,Violão,2511.53,2
+19,26/10/2023,1065,Sudeste,São Paulo,Manutenção de Piano,1057.67,1
+20,30/08/2024,1009,Sul,Curitiba,Trompete,6363.64,3
+21,06/10/2023,1055,Sul,Blumenau,Manutenção de Violão,4875.99,5
+22,28/04/2024,1095,Sul,Curitiba,Flauta,6915.05,2
+23,31/12/2023,1074,Sul,Florianópolis,Flauta,2577.43,5
+24,24/04/2024,1057,Norte,Rio Branco,Saxofone,2230.83,
+25,28/01/2024,1039,Norte,Belém,Manutenção de Guitarra,6255.43,5
+26,27/12/2023,1047,Centro-Oeste,Goiânia,Trompete,3465.03,2
+27,24/05/2024,1080,Norte,Macapá,Trompete,3522.31,5
+28,05/08/2024,1062,Norte,Manaus,Trompete,7472.54,4
+29,10/10/2023,1068,Centro-Oeste,Goiânia,Microfone,4017.65,5
+30,20/12/2023,1013,Nordeste,São Luís,Piano,1911.04,5
+31,13/10/2023,1085,Sudeste,Vitória,Bateria,4927.39,4
+32,30/03/2024,1092,Centro-Oeste,Campo Grande,Saxofone,5732.28,1
+33,15/08/2024,1001,Norte,Macapá,Baixo,5176.24,2
+34,02/11/2023,1020,Sul,Porto Alegre,Flauta,1675.59,
+35,17/11/2023,1028,Centro-Oeste,Cuiabá,Trompete,1192.72,4
+36,27/06/2024,1020,Sul,Porto Alegre,Flauta,7419.79,2
+37,31/01/2024,1002,Sul,Curitiba,Teclado,4589.58,2
+38,16/10/2023,1039,Sudeste,Vitória,Violino,5650.92,1
+39,21/11/2023,1089,Centro-Oeste,Goiânia,Violão,1845.86,1
+40,26/12/2023,1056,Nordeste,Fortaleza,Microfone,5078.99,2
+41,22/06/2024,1053,Nordeste,Fortaleza,Guitarra,1549.68,5
+42,17/03/2024,1045,Sudeste,São Paulo,Flauta,4548.83,5
+43,14/02/2024,1067,Sudeste,Rio de Janeiro,Manutenção de Piano,543.39,5
+44,10/06/2024,1015,Sudeste,Vitória,Bateria,707.81,5
+45,10/06/2024,1075,Nordeste,Recife,Piano,4826.76,2
+46,06/06/2024,1002,Sul,Curitiba,Teclado,1860.35,3
+47,20/07/2024,1052,Sul,Porto Alegre,Teclado,3095.5,3
+48,21/01/2024,1094,Norte,Rio Branco,Manutenção de Violão,2701.99,5
+49,11/01/2024,1080,Sul,Blumenau,Guitarra,6109.77,5
+50,31/08/2024,1009,Centro-Oeste,Campo Grande,Bateria,2091.49,4
