@@ -1,0 +1,1 @@
+You could find here some Python's packages studies: NumPy, Pandas, MatPlotLib and Seaborn packages. 
