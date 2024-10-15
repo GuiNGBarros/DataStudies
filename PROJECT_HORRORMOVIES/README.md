@@ -4,6 +4,6 @@ This project consists of extracting, transforming and loading data from various 
 Data source 
 
 original file: 
-https://www.kaggle.com/datasets/sujaykapadnis/horror-movies-dataset
+https://www.kaggle.com/datasets/beridzeg45/all-movies-on-imdb
 
 automations: themoviedb.org/
